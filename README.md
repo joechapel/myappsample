@@ -23,3 +23,11 @@ git remote add origin https://github.com/joechapel/myappsample.git
 git add .
 git commit -m 'something'
 git push -u origin master
+
+touch README.md
+edit README
+git add .
+git commit -m 'added readme'
+git push
+
+refresh at github repo
